@@ -46,6 +46,7 @@ We specialize in custom smart electronics, automation, and educational tech for 
 
 ---
 
+<!---
 ## 📈 GitHub Stats  
 ![Stats](https://github-readme-stats.vercel.app/api?username=christjoesantos&show_icons=true&theme=tokyonight)
 
@@ -60,3 +61,4 @@ We specialize in custom smart electronics, automation, and educational tech for 
 ---
 
 > 🔍 “Build useful things. Share what you learn. Empower others.”  
+->
