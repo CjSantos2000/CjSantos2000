@@ -44,6 +44,7 @@ Web-based dashboard that visualizes Arduino-based voltage/current readings using
 We specialize in custom smart electronics, automation, and educational tech for local industries.  
 📍 Philippines 🇵🇭 | 🔧 Microcontroller & AI Integration | 🤝 R&D Collaboration Welcome
 
+[Thinktronics Fabrication PH](https://www.facebook.com/thinktronicsfab)
 ---
 
 <!---
