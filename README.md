@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Christ Joe Santos
 
-<!--
-**CjSantos2000/CjSantos2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a Software Engineer specializing in:
+- 🤖 Machine Learning (TensorFlow, TFLite, YOLO, Python)
+- 🌐 Web Apps (Flask, Django, React, REST APIs)
+- 🧠 AI + Hardware Projects (Raspberry Pi, GPIO, Face Recognition)
 
-Here are some ideas to get you started:
+## 🌱 Current Projects
+- 🐌 Automated Golden Apple Snail Picker using YOLO & Raspberry Pi
+- 🔐 Face Recognition Access System
+- 🎥 Smart Video Recorder App with Tkinter & OpenCV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- Email: you@example.com
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- Portfolio: [yourdomain.com](https://yourdomain.com) *(optional)*
+
+---
+
+> 🧠 "Build things that solve real problems. Then teach others to do the same."  
